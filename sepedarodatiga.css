@@ -1,0 +1,48 @@
+body {
+background-color: rosybrown;
+}
+
+h1 {
+ font-family; Georgia, serif;
+ color: white;
+ font-size: 40px;
+}
+
+h2 {
+ font-family; Georgia, serif;
+ color: white;
+ font-size: 40px;
+}
+
+ul#menu li {
+ display: inline;
+}
+
+ul { 
+ list-style-type: none;
+}
+
+li { 
+ float: center;
+}
+
+p, p3, p5, p7 {
+ font-family: Georgia, serif;
+ color: White;
+ font-size; 25px;
+}
+
+p2, p4, p6, p8 { 
+ font-family: Optima, sans-serif;
+ color: white;
+ font-size; 20px;
+}
+
+a {
+  display: block;
+  padding: 90px;
+  background-color: seashell;
+  padding: 20px 90px;
+  margin: 0;
+}
+

@@ -1,0 +1,18 @@
+body {
+background-color: rosybrown;
+}
+
+h2 {
+ font-family; Georgia, serif;
+ color: white;
+ font-size: 40px;
+}
+
+a {
+ display: block;
+ padding: 30px;
+ background-color: seashell;
+ margin: 0;
+}
+
+ul
